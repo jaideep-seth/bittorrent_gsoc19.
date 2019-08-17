@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+# My GSoC 19 journey with INCF
 
-You can use the [editor on GitHub](https://github.com/jaideep-seth/incf_journey/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## How did i get into GSoC?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* I was first introduced into INCF and PyOpenWorm specifically by my mentor Arnab Banerjee in January of 2019.
 
-### Markdown
+* Due to the support of my lead mentor Mark Watts i was able to merge my code and its tests, ultimately getting onto the 
+  OpenWorm Foundation's Peoples page. [(check Jaideep Seth)](http://openworm.org/people.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* I enjoyed interacting with senior contributors like Mr Chee Wai Lee inorder to acquire [OpenWorm Badges.](https://www.badgelist.com/u/Jaideep_Seth)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+* I was motivated by the progress my mentors have made within INCF. From being GSoC Students, to Mentors, then onto
+  Senior Contributors.
 
 - Bulleted
 - List
