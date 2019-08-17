@@ -12,23 +12,23 @@
 * I was motivated by the progress my mentors have made within INCF. From being GSoC Students, to Mentors, then onto
   Senior Contributors.
 
-- Bulleted
-- List
+## What have i learned till now?
 
-1. Numbered
-2. List
+* Python Packaging (PyPI)
 
-**Bold** and _Italic_ and `Code` text
+* Creating issues to track project progress
 
-[Link](url) and ![Image](src)
-```
+* Using setuptools for installing project dependencies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Using Sphinx for documentation
 
-### Jekyll Themes
+* Writing self-contained tests by using the setUp and tearDown methods of unittest.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaideep-seth/incf_journey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* To coordinate with researchers across different Time Zones.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How do i feel about GSoC?
+
+* I am grateful to the Google Summer of Code program as it has afforded me the opportunity to work with consummate professionals within INCF.
+
+* It has given me the chance to become a long term contributor and grow within the INCF organization!
